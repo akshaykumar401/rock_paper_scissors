@@ -57,6 +57,7 @@ img {
     align-items: center;
     gap: 3rem;
     margin-top: 5rem;
+    flex-wrap: wrap;
 }
 
 .score-board {
@@ -79,7 +80,7 @@ img {
 #msg {
     background-color: #081B31;
     color: #FFF;
-    font-size: 2rem;
+    font-size: 1.5rem;
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
